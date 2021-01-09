@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/flynn/hid"
+	"github.com/xianyouq/hid"
 )
 
 var (

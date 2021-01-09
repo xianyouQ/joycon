@@ -1,3 +1,0 @@
-[submodule "vendor/github.com/flynn/hid"]
-	path = vendor/github.com/flynn/hid
-	url = https://github.com/jirwin/hid.git

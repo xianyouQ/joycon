@@ -3,7 +3,7 @@ package joycon
 import (
 	"fmt"
 
-	"github.com/flynn/hid"
+	"github.com/xianyouq/hid"
 )
 
 type DeviceType int
